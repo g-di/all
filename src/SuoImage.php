@@ -5,12 +5,12 @@
  * Date: 16-12-30
  * Time: 下午2:34
  */
-namespace Gao\Gao\SuoImage;
+namespace Gao\Gao;
 
 class SuoImage
 {
 
-    public function SuoImage($source_path, $name , $target_width, $target_height)
+    public static function SuoImage($source_path, $name , $target_width, $target_height)
     {
         file_put_contents($name, file_get_contents($source_path));
         $source_info = getimagesize($source_path);
