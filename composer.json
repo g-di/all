@@ -1,13 +1,12 @@
 {
     "name": "gao/gao",
-    "description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.",
-    "keywords": ["env", "dotenv", "environment"],
-    "license" : "BSD-3-Clause-Attribution",
+    "description": "图片裁剪压缩",
+    "keywords": ["图片裁剪压缩"],
     "authors" : [
         {
-            "name": "Vance Lucas",
-            "email": "vance@vancelucas.com",
-            "homepage": "http://www.vancelucas.com"
+            "name": "高迪",
+            "email": "gd521012@qq.com",
+            "homepage": "http://www.shanheweb.com"
         }
     ],
     "require": {
