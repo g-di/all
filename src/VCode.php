@@ -7,8 +7,8 @@
  */
 namespace Gao\Gao;
 
-class ErCode{
-    public static function ErCode(){
+class VCode{
+    public static function VCode(){
         echo 'Hello World';
     }
 }
