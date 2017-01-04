@@ -1,7 +1,7 @@
 {
     "name": "gao/gao",
     "description": "图片裁剪压缩",
-    "keywords": ["图片裁剪压缩"],
+    "keywords": ["图片裁剪压缩","验证码"],
     "authors" : [
         {
             "name": "高迪",
