@@ -11,7 +11,7 @@ use Gao\Gao\SuoImage;
 use Gao\Gao\TextWater;
 use Gao\Gao\ImgWater;
 
-class Gao
+class Water
 {
     static private $path;
     static private $name;
