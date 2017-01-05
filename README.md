@@ -4,7 +4,7 @@
 
 # Installation
 ```
-composer require guo/gao:dev-master
+composer require gao/gao:dev-master
 ```
 
 ## 水印
